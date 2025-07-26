@@ -1,5 +1,7 @@
 # Pronóstico de Demanda con IA y Métodos Tradicionales
 
+# Demand Forecasting with AI and Traditional Methods
+
 Este proyecto forma parte del Trabajo Fin de Máster (TFM) y tiene como objetivo comparar métodos clásicos
 (SES, MA-3) con modelos de Inteligencia Artificial (Prophet, Random Forest, Keras) para pronosticar la demanda
 semanal del producto *leche entera 1L* en un supermercado (Albert Heijn, Países Bajos) (datos simulados).
