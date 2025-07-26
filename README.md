@@ -72,10 +72,18 @@ pip install -r requirements.txt
 | Métodos tradicionales   | MA-3, SES (Simple Exponential Smoothing)         |
 | Inteligencia Artificial | Prophet, Random Forest, Redes Neuronales (Keras) |
 
+
+| Type | Models |
+| ----------------------- | ------------------------------------------------ |
+| Traditional Methods | MA-3, SES (Simple Exponential Smoothing) |
+| Artificial Intelligence | Prophet, Random Forest, Neural Networks (Keras) |
+
+
 ## Datos 
 ## Data
 
 data/demanda_semanal.csv: contiene las series de demanda semanal simulada para entrenamiento y prueba.
+
 data/demanda_semanal.csv: Contains the simulated weekly demand series for training and testing.
 
 
